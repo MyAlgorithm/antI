@@ -1,2 +1,4 @@
 #机器学习相关博客
 http://blog.csdn.net/zouxy09
+#机器学习相关书籍
+http://www.ituring.com.cn/book/1021
